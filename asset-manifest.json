@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PrideApp/static/css/main.e6c13ad2.css",
-    "main.js": "/PrideApp/static/js/main.01e61630.js",
+    "main.js": "/PrideApp/static/js/main.cb9fee92.js",
     "static/js/453.982c1926.chunk.js": "/PrideApp/static/js/453.982c1926.chunk.js",
     "index.html": "/PrideApp/index.html",
     "main.e6c13ad2.css.map": "/PrideApp/static/css/main.e6c13ad2.css.map",
-    "main.01e61630.js.map": "/PrideApp/static/js/main.01e61630.js.map",
+    "main.cb9fee92.js.map": "/PrideApp/static/js/main.cb9fee92.js.map",
     "453.982c1926.chunk.js.map": "/PrideApp/static/js/453.982c1926.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.01e61630.js"
+    "static/js/main.cb9fee92.js"
   ]
 }
